@@ -29,12 +29,6 @@ Welcome to the UIC Grade Distribution Web Application! This application enhances
 - Node.js (Latest LTS version)
 - Git
 
-### Clone the Repository
-
-```
-git clone https://github.com/Al3ssandro-create/CS-422-Project
-cd CS-422-Project
-```
 
 ### Running the Server
 
