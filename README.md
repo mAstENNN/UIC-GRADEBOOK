@@ -48,4 +48,4 @@ npm run dev
 
 ## Usage
 
-Access the application via `localhost:<port>` after starting both the server and frontend.
+Access the application via `localhost:<port>` after starting both the server and frontend
